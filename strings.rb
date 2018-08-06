@@ -1,1 +1,1 @@
-puts "9.8".to_i
+puts 100.00.to_i
