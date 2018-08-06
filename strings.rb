@@ -1,2 +1,1 @@
-phrase = "i love kode with klossy"
-puts phrase.upcase.reverse
+puts "i love kode with klossy".upcase.reverse
