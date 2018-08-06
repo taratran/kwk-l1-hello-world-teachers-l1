@@ -1,1 +1,1 @@
-puts "5".to_s.inspect
+5 + 5 
