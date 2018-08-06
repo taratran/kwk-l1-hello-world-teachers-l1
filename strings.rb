@@ -1,1 +1,1 @@
-puts "i love kode with klossy".upcase.reverse
+puts "100".to_f
