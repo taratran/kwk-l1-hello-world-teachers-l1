@@ -1,1 +1,1 @@
-puts "100".to_f
+puts "100.0".to_f
